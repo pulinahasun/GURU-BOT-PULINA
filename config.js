@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
